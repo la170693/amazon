@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1622112581,,"wq"
+|2,0,1622120754,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,14 +27,44 @@
 # global variables:
 
 # File marks:
-'0  1  43  ~/touch.txt
-|4,48,1,43,1622112581,"~/touch.txt"
+'0  1  11  ~/akki.txt
+|4,48,1,11,1622120754,"~/akki.txt"
+'1  1  4  ~/alex.txt
+|4,49,1,4,1622120730,"~/alex.txt"
+'2  1  43  ~/touch.txt
+|4,50,1,43,1622112581,"~/touch.txt"
 
 # Jumplist (newest first):
+-'  1  11  ~/akki.txt
+|4,39,1,11,1622120754,"~/akki.txt"
+-'  1  4  ~/alex.txt
+|4,39,1,4,1622120730,"~/alex.txt"
+-'  1  4  ~/alex.txt
+|4,39,1,4,1622120730,"~/alex.txt"
+-'  1  43  ~/touch.txt
+|4,39,1,43,1622112581,"~/touch.txt"
+-'  1  43  ~/touch.txt
+|4,39,1,43,1622112581,"~/touch.txt"
+-'  1  43  ~/touch.txt
+|4,39,1,43,1622112581,"~/touch.txt"
 -'  1  43  ~/touch.txt
 |4,39,1,43,1622112581,"~/touch.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/akki.txt
+	*	1622120750	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/alex.txt
+	*	1622120727	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
 
 > ~/touch.txt
 	*	1622112576	0
