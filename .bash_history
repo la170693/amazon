@@ -27,3 +27,17 @@ git branch
 git push am master
 clear
 exit
+ls
+vi alex.txt
+vi akki.txt
+ls
+git status
+git add .
+git status
+git commit -m "new files created"
+git status
+git push am master
+clear
+git remote -v
+exit
+exit
