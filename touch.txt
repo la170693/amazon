@@ -1,1 +1,2 @@
 hi this is lalu alex,using github in android
+using pull command
